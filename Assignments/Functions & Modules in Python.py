@@ -1,5 +1,4 @@
 ##Calculate Factorial Using a Function
-from math import factorial
 
 def GetFactVal(n):
     b = 1
