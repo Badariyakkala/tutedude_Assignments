@@ -1,0 +1,1 @@
+##TO HIDE ATTRIBUTES OR METHODS IN SIDE THE CLASS WE NEED TO USE __A1__ for Variable and for method __Add__
